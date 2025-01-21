@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChilledCow
+- 👋 Hi, I’m @dysn
 - 👀 I’m interested in coding
 - 🌱 I’m currently making Discord Bots and Web Site
 -🎧 Listening LoFi Music 
